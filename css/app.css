@@ -71,8 +71,8 @@ section {
   text-align: center;
 }
   .thumbnail {
-    width: 15%;
-    height: 5cm;
+    width: 9%;
+    height: 5em;
     border: 3px solid #777;
     border-radius: 16px;
     box-shadow: 2x 3px 5px #222;
